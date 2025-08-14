@@ -1,0 +1,65 @@
+{
+  "banks": [
+    {
+      "rank": 37,
+      "name": "UMB BK NA/UMB FC",
+      "deposits": 69.014,
+      "type": "bank",
+      "location": "Kansas City, MO",
+      "assets": "Traditional Banking"
+    },
+    {
+      "rank": 38,
+      "name": "Aave",
+      "deposits": 67.921,
+      "type": "defi",
+      "location": "Decentralized",
+      "assets": "DeFi Lending Protocol"
+    },
+    {
+      "rank": 39,
+      "name": "SouthState BK NA/SouthState CORP",
+      "deposits": 65.109,
+      "type": "bank",
+      "location": "Winter Haven, FL",
+      "assets": "Traditional Banking"
+    },
+    {
+      "rank": 40,
+      "name": "Valley NB/Valley NAT BC",
+      "deposits": 61.818,
+      "type": "bank",
+      "location": "Passaic, NJ",
+      "assets": "Traditional Banking"
+    },
+    {
+      "rank": 41,
+      "name": "CIBC BK USA/CIBC BC USA",
+      "deposits": 61.303,
+      "type": "bank",
+      "location": "Chicago, IL",
+      "assets": "Traditional Banking"
+    },
+    {
+      "rank": 42,
+      "name": "Synovus BK/Synovus FC",
+      "deposits": 60.208,
+      "type": "bank",
+      "location": "Columbus, GA",
+      "assets": "Traditional Banking"
+    },
+    {
+      "rank": 43,
+      "name": "Pinnacle BK/Pinnacle FNCL PTNR",
+      "deposits": 54.473,
+      "type": "bank",
+      "location": "Nashville, TN",
+      "assets": "Traditional Banking"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2025-03-31",
+    "source": "Federal Reserve",
+    "dataUrl": "https://www.federalreserve.gov/releases/lbr/current/"
+  }
+}
